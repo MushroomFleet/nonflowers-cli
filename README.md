@@ -2,7 +2,7 @@
 
 Procedurally generated paintings of nonexistent flowers in Gongbi style, available as a command-line tool.
 
-![Example Woody Plant](screenshots/example_woody.png)
+![Example Woody Plant](output/nonflower_20250504_164644_1746373565287.png)
 
 This project is a Python reimplementation of [Lingdong Huang's original Nonflowers](https://github.com/LingDong-/nonflowers) web-based generator, offering a powerful command-line interface with extensive customization options.
 
